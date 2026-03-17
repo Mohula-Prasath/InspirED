@@ -11,7 +11,7 @@ InspirED is a comprehensive educational platform that leverages AI to provide pe
 - **Agentic 3-Cycle Loop**: Ensuring pedagogical accuracy and zero hallucination through iterative cross-verification.
 - **MCQ Generation**: Automatically generate quizzes from course content.
 - **Performance Analytics**: Track student progress and identify weak topics.
-- **Multilingual Support**: Support for English, Hindi, Tamil, Telugu, and Spanish.
+- **Multilingual Support**: Support for English, Hindi, Tamil, Telugu, and Spanish (We can add other languages too).
 
 ## Tech Stack
 
